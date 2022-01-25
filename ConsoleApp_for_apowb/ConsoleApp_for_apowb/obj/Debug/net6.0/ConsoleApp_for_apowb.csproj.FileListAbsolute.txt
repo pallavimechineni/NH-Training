@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\bin\Debug\net6.0\ConsoleApp_for_apowb.exe
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\bin\Debug\net6.0\ConsoleApp_for_apowb.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\bin\Debug\net6.0\ConsoleApp_for_apowb.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\bin\Debug\net6.0\ConsoleApp_for_apowb.dll
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\bin\Debug\net6.0\ref\ConsoleApp_for_apowb.dll
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\bin\Debug\net6.0\ConsoleApp_for_apowb.pdb
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\obj\Debug\net6.0\ConsoleApp_for_apowb.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\obj\Debug\net6.0\ConsoleApp_for_apowb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\obj\Debug\net6.0\ConsoleApp_for_apowb.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\obj\Debug\net6.0\ConsoleApp_for_apowb.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\obj\Debug\net6.0\ConsoleApp_for_apowb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\obj\Debug\net6.0\ConsoleApp_for_apowb.dll
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\obj\Debug\net6.0\ref\ConsoleApp_for_apowb.dll
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\obj\Debug\net6.0\ConsoleApp_for_apowb.pdb
+C:\Users\Administrator\source\repos\ConsoleApp_for_apowb\ConsoleApp_for_apowb\obj\Debug\net6.0\ConsoleApp_for_apowb.genruntimeconfig.cache

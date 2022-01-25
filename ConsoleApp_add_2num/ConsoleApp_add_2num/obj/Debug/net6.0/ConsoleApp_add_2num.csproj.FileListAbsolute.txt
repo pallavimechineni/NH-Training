@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\bin\Debug\net6.0\ConsoleApp_add_2num.exe
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\bin\Debug\net6.0\ConsoleApp_add_2num.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\bin\Debug\net6.0\ConsoleApp_add_2num.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\bin\Debug\net6.0\ConsoleApp_add_2num.dll
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\bin\Debug\net6.0\ref\ConsoleApp_add_2num.dll
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\bin\Debug\net6.0\ConsoleApp_add_2num.pdb
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\obj\Debug\net6.0\ConsoleApp_add_2num.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\obj\Debug\net6.0\ConsoleApp_add_2num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\obj\Debug\net6.0\ConsoleApp_add_2num.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\obj\Debug\net6.0\ConsoleApp_add_2num.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\obj\Debug\net6.0\ConsoleApp_add_2num.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\obj\Debug\net6.0\ConsoleApp_add_2num.dll
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\obj\Debug\net6.0\ref\ConsoleApp_add_2num.dll
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\obj\Debug\net6.0\ConsoleApp_add_2num.pdb
+C:\Users\Administrator\source\repos\ConsoleApp_add_2num\ConsoleApp_add_2num\obj\Debug\net6.0\ConsoleApp_add_2num.genruntimeconfig.cache

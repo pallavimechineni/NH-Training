@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\bin\Debug\net6.0-windows\window app apowb.exe
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\bin\Debug\net6.0-windows\window app apowb.deps.json
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\bin\Debug\net6.0-windows\window app apowb.runtimeconfig.json
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\bin\Debug\net6.0-windows\window app apowb.dll
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\bin\Debug\net6.0-windows\ref\window app apowb.dll
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\bin\Debug\net6.0-windows\window app apowb.pdb
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window app apowb.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window_app_apowb.Form1.resources
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window app apowb.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window app apowb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window app apowb.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window app apowb.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window app apowb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window app apowb.dll
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\ref\window app apowb.dll
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window app apowb.pdb
+C:\Users\Administrator\source\repos\window app apowb\window app apowb\obj\Debug\net6.0-windows\window app apowb.genruntimeconfig.cache
