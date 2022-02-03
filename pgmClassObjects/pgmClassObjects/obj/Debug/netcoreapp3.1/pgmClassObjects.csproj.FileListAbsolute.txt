@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\bin\Debug\netcoreapp3.1\pgmClassObjects.exe
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\bin\Debug\netcoreapp3.1\pgmClassObjects.deps.json
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\bin\Debug\netcoreapp3.1\pgmClassObjects.runtimeconfig.json
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\bin\Debug\netcoreapp3.1\pgmClassObjects.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\bin\Debug\netcoreapp3.1\pgmClassObjects.dll
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\bin\Debug\netcoreapp3.1\pgmClassObjects.pdb
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\obj\Debug\netcoreapp3.1\pgmClassObjects.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\obj\Debug\netcoreapp3.1\pgmClassObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\obj\Debug\netcoreapp3.1\pgmClassObjects.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\obj\Debug\netcoreapp3.1\pgmClassObjects.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\obj\Debug\netcoreapp3.1\pgmClassObjects.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\obj\Debug\netcoreapp3.1\pgmClassObjects.dll
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\obj\Debug\netcoreapp3.1\pgmClassObjects.pdb
+C:\Users\Administrator\source\repos\pgmClassObjects\pgmClassObjects\obj\Debug\netcoreapp3.1\pgmClassObjects.genruntimeconfig.cache

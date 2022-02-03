@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pgmhello5times/1.0.0": {
+        "runtime": {
+          "pgmhello5times.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pgmhello5times/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

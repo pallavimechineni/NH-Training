@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\bin\Debug\net6.0\pgmhello5times.exe
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\bin\Debug\net6.0\pgmhello5times.deps.json
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\bin\Debug\net6.0\pgmhello5times.runtimeconfig.json
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\bin\Debug\net6.0\pgmhello5times.dll
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\bin\Debug\net6.0\ref\pgmhello5times.dll
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\bin\Debug\net6.0\pgmhello5times.pdb
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\obj\Debug\net6.0\pgmhello5times.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\obj\Debug\net6.0\pgmhello5times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\obj\Debug\net6.0\pgmhello5times.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\obj\Debug\net6.0\pgmhello5times.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\obj\Debug\net6.0\pgmhello5times.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\obj\Debug\net6.0\pgmhello5times.dll
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\obj\Debug\net6.0\ref\pgmhello5times.dll
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\obj\Debug\net6.0\pgmhello5times.pdb
+C:\Users\Administrator\source\repos\pgmhello5times\pgmhello5times\obj\Debug\net6.0\pgmhello5times.genruntimeconfig.cache

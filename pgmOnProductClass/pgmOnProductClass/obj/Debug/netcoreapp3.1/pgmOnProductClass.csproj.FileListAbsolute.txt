@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\bin\Debug\netcoreapp3.1\pgmOnProductClass.exe
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\bin\Debug\netcoreapp3.1\pgmOnProductClass.deps.json
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\bin\Debug\netcoreapp3.1\pgmOnProductClass.runtimeconfig.json
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\bin\Debug\netcoreapp3.1\pgmOnProductClass.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\bin\Debug\netcoreapp3.1\pgmOnProductClass.dll
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\bin\Debug\netcoreapp3.1\pgmOnProductClass.pdb
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\obj\Debug\netcoreapp3.1\pgmOnProductClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\obj\Debug\netcoreapp3.1\pgmOnProductClass.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\obj\Debug\netcoreapp3.1\pgmOnProductClass.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\obj\Debug\netcoreapp3.1\pgmOnProductClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\obj\Debug\netcoreapp3.1\pgmOnProductClass.dll
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\obj\Debug\netcoreapp3.1\pgmOnProductClass.pdb
+C:\Users\Administrator\source\repos\pgmOnProductClass\pgmOnProductClass\obj\Debug\netcoreapp3.1\pgmOnProductClass.genruntimeconfig.cache
