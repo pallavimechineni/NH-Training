@@ -1,0 +1,14 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\bin\Debug\netcoreapp3.1\program4.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\bin\Debug\netcoreapp3.1\program4.deps.json
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\bin\Debug\netcoreapp3.1\program4.runtimeconfig.json
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\bin\Debug\netcoreapp3.1\program4.runtimeconfig.dev.json
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\bin\Debug\netcoreapp3.1\program4.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\bin\Debug\netcoreapp3.1\program4.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\obj\Debug\netcoreapp3.1\program4.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\obj\Debug\netcoreapp3.1\program4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\obj\Debug\netcoreapp3.1\program4.AssemblyInfoInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\obj\Debug\netcoreapp3.1\program4.AssemblyInfo.cs
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\obj\Debug\netcoreapp3.1\program4.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\obj\Debug\netcoreapp3.1\program4.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\obj\Debug\netcoreapp3.1\program4.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day8 programs\Day8\program4\program4\obj\Debug\netcoreapp3.1\program4.genruntimeconfig.cache
