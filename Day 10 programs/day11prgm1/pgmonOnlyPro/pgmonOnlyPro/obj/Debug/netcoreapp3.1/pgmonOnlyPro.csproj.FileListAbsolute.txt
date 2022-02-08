@@ -1,0 +1,14 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\bin\Debug\netcoreapp3.1\pgmonOnlyPro.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\bin\Debug\netcoreapp3.1\pgmonOnlyPro.deps.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\bin\Debug\netcoreapp3.1\pgmonOnlyPro.runtimeconfig.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\bin\Debug\netcoreapp3.1\pgmonOnlyPro.runtimeconfig.dev.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\bin\Debug\netcoreapp3.1\pgmonOnlyPro.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\bin\Debug\netcoreapp3.1\pgmonOnlyPro.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\obj\Debug\netcoreapp3.1\pgmonOnlyPro.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\obj\Debug\netcoreapp3.1\pgmonOnlyPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\obj\Debug\netcoreapp3.1\pgmonOnlyPro.AssemblyInfoInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\obj\Debug\netcoreapp3.1\pgmonOnlyPro.AssemblyInfo.cs
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\obj\Debug\netcoreapp3.1\pgmonOnlyPro.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\obj\Debug\netcoreapp3.1\pgmonOnlyPro.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\obj\Debug\netcoreapp3.1\pgmonOnlyPro.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonOnlyPro\pgmonOnlyPro\obj\Debug\netcoreapp3.1\pgmonOnlyPro.genruntimeconfig.cache

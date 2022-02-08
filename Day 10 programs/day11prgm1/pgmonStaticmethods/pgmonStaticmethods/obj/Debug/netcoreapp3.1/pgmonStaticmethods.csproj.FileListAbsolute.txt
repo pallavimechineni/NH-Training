@@ -1,0 +1,14 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\bin\Debug\netcoreapp3.1\pgmonStaticmethods.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\bin\Debug\netcoreapp3.1\pgmonStaticmethods.deps.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\bin\Debug\netcoreapp3.1\pgmonStaticmethods.runtimeconfig.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\bin\Debug\netcoreapp3.1\pgmonStaticmethods.runtimeconfig.dev.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\bin\Debug\netcoreapp3.1\pgmonStaticmethods.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\bin\Debug\netcoreapp3.1\pgmonStaticmethods.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\obj\Debug\netcoreapp3.1\pgmonStaticmethods.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\obj\Debug\netcoreapp3.1\pgmonStaticmethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\obj\Debug\netcoreapp3.1\pgmonStaticmethods.AssemblyInfoInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\obj\Debug\netcoreapp3.1\pgmonStaticmethods.AssemblyInfo.cs
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\obj\Debug\netcoreapp3.1\pgmonStaticmethods.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\obj\Debug\netcoreapp3.1\pgmonStaticmethods.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\obj\Debug\netcoreapp3.1\pgmonStaticmethods.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonStaticmethods\pgmonStaticmethods\obj\Debug\netcoreapp3.1\pgmonStaticmethods.genruntimeconfig.cache

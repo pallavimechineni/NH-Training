@@ -1,0 +1,14 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\bin\Debug\netcoreapp3.1\pgmonPropert.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\bin\Debug\netcoreapp3.1\pgmonPropert.deps.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\bin\Debug\netcoreapp3.1\pgmonPropert.runtimeconfig.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\bin\Debug\netcoreapp3.1\pgmonPropert.runtimeconfig.dev.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\bin\Debug\netcoreapp3.1\pgmonPropert.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\bin\Debug\netcoreapp3.1\pgmonPropert.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\obj\Debug\netcoreapp3.1\pgmonPropert.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\obj\Debug\netcoreapp3.1\pgmonPropert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\obj\Debug\netcoreapp3.1\pgmonPropert.AssemblyInfoInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\obj\Debug\netcoreapp3.1\pgmonPropert.AssemblyInfo.cs
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\obj\Debug\netcoreapp3.1\pgmonPropert.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\obj\Debug\netcoreapp3.1\pgmonPropert.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\obj\Debug\netcoreapp3.1\pgmonPropert.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\day11prgm1\pgmonPropert\pgmonPropert\obj\Debug\netcoreapp3.1\pgmonPropert.genruntimeconfig.cache

@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="D:\Day1 Assessment by Pallavi Mechineni\Day11 programs\pgmonProperties.cs" Link="pgmonProperties.cs" />
-  </ItemGroup>
-
 </Project>
