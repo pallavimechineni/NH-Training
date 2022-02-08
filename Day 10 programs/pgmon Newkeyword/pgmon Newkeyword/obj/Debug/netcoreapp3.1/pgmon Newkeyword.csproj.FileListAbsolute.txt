@@ -1,0 +1,14 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\bin\Debug\netcoreapp3.1\pgmon Newkeyword.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\bin\Debug\netcoreapp3.1\pgmon Newkeyword.deps.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\bin\Debug\netcoreapp3.1\pgmon Newkeyword.runtimeconfig.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\bin\Debug\netcoreapp3.1\pgmon Newkeyword.runtimeconfig.dev.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\bin\Debug\netcoreapp3.1\pgmon Newkeyword.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\bin\Debug\netcoreapp3.1\pgmon Newkeyword.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\obj\Debug\netcoreapp3.1\pgmon Newkeyword.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\obj\Debug\netcoreapp3.1\pgmon Newkeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\obj\Debug\netcoreapp3.1\pgmon Newkeyword.AssemblyInfoInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\obj\Debug\netcoreapp3.1\pgmon Newkeyword.AssemblyInfo.cs
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\obj\Debug\netcoreapp3.1\pgmon Newkeyword.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\obj\Debug\netcoreapp3.1\pgmon Newkeyword.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\obj\Debug\netcoreapp3.1\pgmon Newkeyword.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 10 programs\pgmon Newkeyword\pgmon Newkeyword\obj\Debug\netcoreapp3.1\pgmon Newkeyword.genruntimeconfig.cache
