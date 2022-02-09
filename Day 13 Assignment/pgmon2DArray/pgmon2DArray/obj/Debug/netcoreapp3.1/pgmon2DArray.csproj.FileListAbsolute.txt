@@ -1,0 +1,14 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\bin\Debug\netcoreapp3.1\pgmon2DArray.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\bin\Debug\netcoreapp3.1\pgmon2DArray.deps.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\bin\Debug\netcoreapp3.1\pgmon2DArray.runtimeconfig.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\bin\Debug\netcoreapp3.1\pgmon2DArray.runtimeconfig.dev.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\bin\Debug\netcoreapp3.1\pgmon2DArray.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\bin\Debug\netcoreapp3.1\pgmon2DArray.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\obj\Debug\netcoreapp3.1\pgmon2DArray.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\obj\Debug\netcoreapp3.1\pgmon2DArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\obj\Debug\netcoreapp3.1\pgmon2DArray.AssemblyInfoInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\obj\Debug\netcoreapp3.1\pgmon2DArray.AssemblyInfo.cs
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\obj\Debug\netcoreapp3.1\pgmon2DArray.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\obj\Debug\netcoreapp3.1\pgmon2DArray.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\obj\Debug\netcoreapp3.1\pgmon2DArray.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmon2DArray\pgmon2DArray\obj\Debug\netcoreapp3.1\pgmon2DArray.genruntimeconfig.cache

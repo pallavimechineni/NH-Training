@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Day1 Assessment by Pallavi Mechineni\Day 12 Assignment\pgmonExceptions.cs" Link="pgmonExceptions.cs" />
+  </ItemGroup>
+
+</Project>

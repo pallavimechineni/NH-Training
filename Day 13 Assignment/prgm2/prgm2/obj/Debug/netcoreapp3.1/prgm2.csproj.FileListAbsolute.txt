@@ -1,0 +1,14 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\bin\Debug\netcoreapp3.1\prgm2.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\bin\Debug\netcoreapp3.1\prgm2.deps.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\bin\Debug\netcoreapp3.1\prgm2.runtimeconfig.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\bin\Debug\netcoreapp3.1\prgm2.runtimeconfig.dev.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\bin\Debug\netcoreapp3.1\prgm2.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\bin\Debug\netcoreapp3.1\prgm2.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\obj\Debug\netcoreapp3.1\prgm2.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\obj\Debug\netcoreapp3.1\prgm2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\obj\Debug\netcoreapp3.1\prgm2.AssemblyInfoInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\obj\Debug\netcoreapp3.1\prgm2.AssemblyInfo.cs
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\obj\Debug\netcoreapp3.1\prgm2.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\obj\Debug\netcoreapp3.1\prgm2.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\obj\Debug\netcoreapp3.1\prgm2.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\prgm2\prgm2\obj\Debug\netcoreapp3.1\prgm2.genruntimeconfig.cache

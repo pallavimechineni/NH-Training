@@ -1,0 +1,14 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\obj\Debug\netcoreapp3.1\pgmexce.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\obj\Debug\netcoreapp3.1\pgmexce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\obj\Debug\netcoreapp3.1\pgmexce.AssemblyInfoInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\obj\Debug\netcoreapp3.1\pgmexce.AssemblyInfo.cs
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\obj\Debug\netcoreapp3.1\pgmexce.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\bin\Debug\netcoreapp3.1\pgmexce.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\bin\Debug\netcoreapp3.1\pgmexce.deps.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\bin\Debug\netcoreapp3.1\pgmexce.runtimeconfig.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\bin\Debug\netcoreapp3.1\pgmexce.runtimeconfig.dev.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\bin\Debug\netcoreapp3.1\pgmexce.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\bin\Debug\netcoreapp3.1\pgmexce.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\obj\Debug\netcoreapp3.1\pgmexce.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\obj\Debug\netcoreapp3.1\pgmexce.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmexce\pgmexce\obj\Debug\netcoreapp3.1\pgmexce.genruntimeconfig.cache

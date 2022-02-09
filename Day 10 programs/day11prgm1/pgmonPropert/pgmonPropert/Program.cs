@@ -6,10 +6,10 @@ namespace pgmonPropert
     {   /*******************************************
         Author: M.Pallavi
         purpose: A sample code to illustrate properties */
-        private int id;
-        private string name;
-        private string designation;
-        private int salary;
+        private int Id;
+        private string Name;
+        private string Designation;
+        private int Salary;
 
         public int Id//creating id property
         {
@@ -29,8 +29,8 @@ namespace pgmonPropert
         public int Salary
         {
             get 
-            { salary = (designation == "s") ? 3000:6000;
-                return salary; 
+            { Salary = (designation == "s") ? 3000:6000;
+                return Salary; 
             }
 
             set { salary = value; }
