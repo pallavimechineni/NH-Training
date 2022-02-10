@@ -1,0 +1,14 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\bin\Debug\netcoreapp3.1\prgmAutoPro.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\bin\Debug\netcoreapp3.1\prgmAutoPro.deps.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\bin\Debug\netcoreapp3.1\prgmAutoPro.runtimeconfig.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\bin\Debug\netcoreapp3.1\prgmAutoPro.runtimeconfig.dev.json
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\bin\Debug\netcoreapp3.1\prgmAutoPro.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\bin\Debug\netcoreapp3.1\prgmAutoPro.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\obj\Debug\netcoreapp3.1\prgmAutoPro.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\obj\Debug\netcoreapp3.1\prgmAutoPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\obj\Debug\netcoreapp3.1\prgmAutoPro.AssemblyInfoInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\obj\Debug\netcoreapp3.1\prgmAutoPro.AssemblyInfo.cs
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\obj\Debug\netcoreapp3.1\prgmAutoPro.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\obj\Debug\netcoreapp3.1\prgmAutoPro.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\obj\Debug\netcoreapp3.1\prgmAutoPro.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\prgmAutoPro\prgmAutoPro\obj\Debug\netcoreapp3.1\prgmAutoPro.genruntimeconfig.cache
