@@ -1,0 +1,7 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmusingBreak\pgmusingBreak\obj\Debug\pgmusingBreak.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmusingBreak\pgmusingBreak\obj\Debug\pgmusingBreak.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmusingBreak\pgmusingBreak\bin\Debug\pgmusingBreak.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmusingBreak\pgmusingBreak\bin\Debug\pgmusingBreak.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmusingBreak\pgmusingBreak\bin\Debug\pgmusingBreak.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmusingBreak\pgmusingBreak\obj\Debug\pgmusingBreak.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmusingBreak\pgmusingBreak\obj\Debug\pgmusingBreak.pdb
