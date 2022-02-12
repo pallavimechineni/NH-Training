@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmOnContinue\pgmOnContinue\bin\Debug\pgmOnContinue.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmOnContinue\pgmOnContinue\bin\Debug\pgmOnContinue.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmOnContinue\pgmOnContinue\bin\Debug\pgmOnContinue.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmOnContinue\pgmOnContinue\obj\Debug\pgmOnContinue.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmOnContinue\pgmOnContinue\obj\Debug\pgmOnContinue.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmOnContinue\pgmOnContinue\obj\Debug\pgmOnContinue.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmOnContinue\pgmOnContinue\obj\Debug\pgmOnContinue.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 14 programs\pgmonPrime_num\pgmOnContinue\pgmOnContinue\obj\Debug\pgmOnContinue.pdb
