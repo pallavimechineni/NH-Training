@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgmOnStack", "pgmOnStack\pgmOnStack.csproj", "{E5FF47CB-524D-4599-89D0-647C5827934E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FF47CB-524D-4599-89D0-647C5827934E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FF47CB-524D-4599-89D0-647C5827934E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FF47CB-524D-4599-89D0-647C5827934E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FF47CB-524D-4599-89D0-647C5827934E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5860CB-DD9C-4375-BD0C-110F55B84910}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnStack\pgmOnStack\bin\Debug\pgmOnStack.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnStack\pgmOnStack\bin\Debug\pgmOnStack.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnStack\pgmOnStack\bin\Debug\pgmOnStack.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnStack\pgmOnStack\obj\Debug\pgmOnStack.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnStack\pgmOnStack\obj\Debug\pgmOnStack.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnStack\pgmOnStack\obj\Debug\pgmOnStack.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnStack\pgmOnStack\obj\Debug\pgmOnStack.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnStack\pgmOnStack\obj\Debug\pgmOnStack.pdb
