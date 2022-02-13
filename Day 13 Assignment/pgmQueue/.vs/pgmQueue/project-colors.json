@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2804d3c-e44a-4fb1-b4d0-b0ee3ec8acc2": {
+      "ProjectGuid": "c2804d3c-e44a-4fb1-b4d0-b0ee3ec8acc2",
+      "DisplayName": "pgmQueue",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
