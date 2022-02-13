@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pgmQueue", "pgmQueue\pgmQueue.csproj", "{C2804D3C-E44A-4FB1-B4D0-B0EE3EC8ACC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2804D3C-E44A-4FB1-B4D0-B0EE3EC8ACC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2804D3C-E44A-4FB1-B4D0-B0EE3EC8ACC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2804D3C-E44A-4FB1-B4D0-B0EE3EC8ACC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2804D3C-E44A-4FB1-B4D0-B0EE3EC8ACC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B5CB56-7405-4632-813B-A16601DB7BB3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnJaggedArray\pgmOnJaggedArray\bin\Debug\pgmOnJaggedArray.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnJaggedArray\pgmOnJaggedArray\bin\Debug\pgmOnJaggedArray.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnJaggedArray\pgmOnJaggedArray\bin\Debug\pgmOnJaggedArray.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnJaggedArray\pgmOnJaggedArray\obj\Debug\pgmOnJaggedArray.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnJaggedArray\pgmOnJaggedArray\obj\Debug\pgmOnJaggedArray.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnJaggedArray\pgmOnJaggedArray\obj\Debug\pgmOnJaggedArray.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnJaggedArray\pgmOnJaggedArray\obj\Debug\pgmOnJaggedArray.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmOnJaggedArray\pgmOnJaggedArray\obj\Debug\pgmOnJaggedArray.pdb

@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmQueue\pgmQueue\bin\Debug\pgmQueue.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmQueue\pgmQueue\bin\Debug\pgmQueue.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmQueue\pgmQueue\bin\Debug\pgmQueue.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmQueue\pgmQueue\obj\Debug\pgmQueue.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmQueue\pgmQueue\obj\Debug\pgmQueue.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmQueue\pgmQueue\obj\Debug\pgmQueue.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmQueue\pgmQueue\obj\Debug\pgmQueue.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 13 Assignment\pgmQueue\pgmQueue\obj\Debug\pgmQueue.pdb
