@@ -1,0 +1,7 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmToAppend\pgmToAppend\bin\Debug\pgmToAppend.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmToAppend\pgmToAppend\bin\Debug\pgmToAppend.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmToAppend\pgmToAppend\bin\Debug\pgmToAppend.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmToAppend\pgmToAppend\obj\Debug\pgmToAppend.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmToAppend\pgmToAppend\obj\Debug\pgmToAppend.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmToAppend\pgmToAppend\obj\Debug\pgmToAppend.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmToAppend\pgmToAppend\obj\Debug\pgmToAppend.pdb
