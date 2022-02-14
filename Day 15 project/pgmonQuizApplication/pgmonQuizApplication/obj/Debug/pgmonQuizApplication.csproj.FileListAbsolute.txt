@@ -1,0 +1,7 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonQuizApplication\pgmonQuizApplication\bin\Debug\pgmonQuizApplication.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonQuizApplication\pgmonQuizApplication\bin\Debug\pgmonQuizApplication.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonQuizApplication\pgmonQuizApplication\bin\Debug\pgmonQuizApplication.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonQuizApplication\pgmonQuizApplication\obj\Debug\pgmonQuizApplication.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonQuizApplication\pgmonQuizApplication\obj\Debug\pgmonQuizApplication.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonQuizApplication\pgmonQuizApplication\obj\Debug\pgmonQuizApplication.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonQuizApplication\pgmonQuizApplication\obj\Debug\pgmonQuizApplication.pdb

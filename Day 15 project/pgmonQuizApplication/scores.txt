@@ -1,0 +1,6 @@
+ Name : pallavi 
+	 Score : 40
+
+ Name : pallavi 
+	 Score : 60
+
