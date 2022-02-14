@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonTasksched\pgmonTasksched\obj\Debug\pgmonTasksched.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonTasksched\pgmonTasksched\obj\Debug\pgmonTasksched.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonTasksched\pgmonTasksched\bin\Debug\pgmonTasksched.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonTasksched\pgmonTasksched\bin\Debug\pgmonTasksched.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonTasksched\pgmonTasksched\bin\Debug\pgmonTasksched.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonTasksched\pgmonTasksched\obj\Debug\pgmonTasksched.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonTasksched\pgmonTasksched\obj\Debug\pgmonTasksched.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmonTasksched\pgmonTasksched\obj\Debug\pgmonTasksched.csproj.AssemblyReference.cache

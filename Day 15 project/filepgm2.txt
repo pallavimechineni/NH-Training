@@ -1,6 +1,0 @@
- the first File program  C# code
- 
-Writing Data by StringWriter Method.
-This string  Write MethodThis is WriteLine  MethodThis
-is Extra
-Text
