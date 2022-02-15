@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmtoReadfile\pgmtoReadfile\bin\Debug\pgmtoReadfile.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmtoReadfile\pgmtoReadfile\bin\Debug\pgmtoReadfile.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmtoReadfile\pgmtoReadfile\bin\Debug\pgmtoReadfile.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmtoReadfile\pgmtoReadfile\obj\Debug\pgmtoReadfile.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmtoReadfile\pgmtoReadfile\obj\Debug\pgmtoReadfile.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmtoReadfile\pgmtoReadfile\obj\Debug\pgmtoReadfile.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmtoReadfile\pgmtoReadfile\obj\Debug\pgmtoReadfile.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 15 project\pgmtoReadfile\pgmtoReadfile\obj\Debug\pgmtoReadfile.pdb

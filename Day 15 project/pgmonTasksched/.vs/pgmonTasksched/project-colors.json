@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d16bbfcc-acb5-4ac8-bdec-3663f9f09c29": {
+      "ProjectGuid": "d16bbfcc-acb5-4ac8-bdec-3663f9f09c29",
+      "DisplayName": "pgmonTasksched",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
