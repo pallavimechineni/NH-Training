@@ -1,0 +1,5 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\PallaviLibrary\PallaviLibrary\bin\Debug\PallaviLibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\PallaviLibrary\PallaviLibrary\bin\Debug\PallaviLibrary.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\PallaviLibrary\PallaviLibrary\obj\Debug\PallaviLibrary.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\PallaviLibrary\PallaviLibrary\obj\Debug\PallaviLibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\PallaviLibrary\PallaviLibrary\obj\Debug\PallaviLibrary.pdb
