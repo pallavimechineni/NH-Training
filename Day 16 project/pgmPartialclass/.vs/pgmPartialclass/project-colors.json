@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "420ac187-8c7a-4857-818b-1bb1d060aa25": {
+      "ProjectGuid": "420ac187-8c7a-4857-818b-1bb1d060aa25",
+      "DisplayName": "pgmPartialclass",
+      "ColorIndex": 0
+    },
+    "2651ecc5-73e2-4090-bb3d-8d71312994e0": {
+      "ProjectGuid": "2651ecc5-73e2-4090-bb3d-8d71312994e0",
+      "DisplayName": "math2library",
+      "ColorIndex": 1
+    },
+    "090f6370-345a-45b1-92f1-9e99b998939f": {
+      "ProjectGuid": "090f6370-345a-45b1-92f1-9e99b998939f",
+      "DisplayName": "pgmonpartialClass",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

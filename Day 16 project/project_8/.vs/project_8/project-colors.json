@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4c113a4-1d3a-4941-b78c-43234c8465f6": {
+      "ProjectGuid": "a4c113a4-1d3a-4941-b78c-43234c8465f6",
+      "DisplayName": "project_8",
+      "ColorIndex": 0
+    },
+    "61fcdffb-b74a-4e71-a447-c61dc510af3a": {
+      "ProjectGuid": "61fcdffb-b74a-4e71-a447-c61dc510af3a",
+      "DisplayName": "mathlibrary",
+      "ColorIndex": 1
+    },
+    "4f24d1ce-a945-4b3c-88bd-ee0f9c3aa60a": {
+      "ProjectGuid": "4f24d1ce-a945-4b3c-88bd-ee0f9c3aa60a",
+      "DisplayName": "phylibrary",
+      "ColorIndex": 2
+    },
+    "958a6463-c767-4310-bf0e-003da689738c": {
+      "ProjectGuid": "958a6463-c767-4310-bf0e-003da689738c",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

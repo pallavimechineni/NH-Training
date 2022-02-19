@@ -1,0 +1,2 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmPartialclass\obj\Debug\pgmPartialclass.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmPartialclass\obj\Debug\pgmPartialclass.csproj.CoreCompileInputs.cache

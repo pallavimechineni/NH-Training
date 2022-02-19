@@ -1,0 +1,11 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\bin\Debug\pgmonpartialClass.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\bin\Debug\pgmonpartialClass.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\bin\Debug\pgmonpartialClass.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\bin\Debug\math2library.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\bin\Debug\math2library.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\obj\Debug\pgmonpartialClass.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\obj\Debug\pgmonpartialClass.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\obj\Debug\pgmonpartialClass.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\obj\Debug\pgmonpartialClass.csproj.CopyComplete
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\obj\Debug\pgmonpartialClass.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmPartialclass\pgmonpartialClass\obj\Debug\pgmonpartialClass.pdb
