@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\program2\program2\bin\Debug\program2.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\program2\program2\bin\Debug\program2.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\program2\program2\bin\Debug\program2.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\program2\program2\obj\Debug\program2.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\program2\program2\obj\Debug\program2.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\program2\program2\obj\Debug\program2.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\program2\program2\obj\Debug\program2.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\program2\program2\obj\Debug\program2.pdb
