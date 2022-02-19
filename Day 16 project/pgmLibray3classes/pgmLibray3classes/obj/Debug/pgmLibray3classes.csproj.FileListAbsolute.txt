@@ -1,0 +1,5 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmLibray3classes\pgmLibray3classes\bin\Debug\pgmLibray3classes.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmLibray3classes\pgmLibray3classes\bin\Debug\pgmLibray3classes.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmLibray3classes\pgmLibray3classes\obj\Debug\pgmLibray3classes.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmLibray3classes\pgmLibray3classes\obj\Debug\pgmLibray3classes.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmLibray3classes\pgmLibray3classes\obj\Debug\pgmLibray3classes.pdb
