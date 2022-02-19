@@ -1,0 +1,7 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmonPalindrome\pgmonPalindrome\bin\Debug\pgmonPalindrome.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmonPalindrome\pgmonPalindrome\bin\Debug\pgmonPalindrome.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmonPalindrome\pgmonPalindrome\bin\Debug\pgmonPalindrome.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmonPalindrome\pgmonPalindrome\obj\Debug\pgmonPalindrome.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmonPalindrome\pgmonPalindrome\obj\Debug\pgmonPalindrome.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmonPalindrome\pgmonPalindrome\obj\Debug\pgmonPalindrome.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\pgmonPalindrome\pgmonPalindrome\obj\Debug\pgmonPalindrome.pdb
