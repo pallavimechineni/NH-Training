@@ -1,0 +1,5 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\mathlibrary\bin\Debug\mathlibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\mathlibrary\bin\Debug\mathlibrary.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\mathlibrary\obj\Debug\mathlibrary.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\mathlibrary\obj\Debug\mathlibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\mathlibrary\obj\Debug\mathlibrary.pdb

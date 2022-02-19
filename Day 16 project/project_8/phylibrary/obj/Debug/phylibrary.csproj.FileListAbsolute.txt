@@ -1,0 +1,6 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\phylibrary\bin\Debug\phylibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\phylibrary\bin\Debug\phylibrary.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\phylibrary\obj\Debug\phylibrary.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\phylibrary\obj\Debug\phylibrary.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\phylibrary\obj\Debug\phylibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 16 project\project_8\phylibrary\obj\Debug\phylibrary.pdb
