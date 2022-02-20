@@ -1,0 +1,6 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 17 project\prgmonAcessspecifiers\pallaviLibrary\bin\Debug\pallaviLibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 17 project\prgmonAcessspecifiers\pallaviLibrary\bin\Debug\pallaviLibrary.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 17 project\prgmonAcessspecifiers\pallaviLibrary\obj\Debug\pallaviLibrary.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 17 project\prgmonAcessspecifiers\pallaviLibrary\obj\Debug\pallaviLibrary.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 17 project\prgmonAcessspecifiers\pallaviLibrary\obj\Debug\pallaviLibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 17 project\prgmonAcessspecifiers\pallaviLibrary\obj\Debug\pallaviLibrary.pdb
