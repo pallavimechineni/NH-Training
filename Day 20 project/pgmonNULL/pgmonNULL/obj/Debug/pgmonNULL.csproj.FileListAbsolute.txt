@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 20 project\pgmonNULL\pgmonNULL\bin\Debug\pgmonNULL.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 20 project\pgmonNULL\pgmonNULL\bin\Debug\pgmonNULL.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 20 project\pgmonNULL\pgmonNULL\bin\Debug\pgmonNULL.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 20 project\pgmonNULL\pgmonNULL\obj\Debug\pgmonNULL.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 20 project\pgmonNULL\pgmonNULL\obj\Debug\pgmonNULL.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 20 project\pgmonNULL\pgmonNULL\obj\Debug\pgmonNULL.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 20 project\pgmonNULL\pgmonNULL\obj\Debug\pgmonNULL.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 20 project\pgmonNULL\pgmonNULL\obj\Debug\pgmonNULL.pdb
