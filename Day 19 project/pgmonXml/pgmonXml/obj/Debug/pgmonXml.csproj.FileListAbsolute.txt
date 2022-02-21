@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 19 project\pgmonXml\pgmonXml\bin\Debug\pgmonXml.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 19 project\pgmonXml\pgmonXml\bin\Debug\pgmonXml.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 19 project\pgmonXml\pgmonXml\bin\Debug\pgmonXml.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 19 project\pgmonXml\pgmonXml\obj\Debug\pgmonXml.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 19 project\pgmonXml\pgmonXml\obj\Debug\pgmonXml.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 19 project\pgmonXml\pgmonXml\obj\Debug\pgmonXml.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 19 project\pgmonXml\pgmonXml\obj\Debug\pgmonXml.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 19 project\pgmonXml\pgmonXml\obj\Debug\pgmonXml.pdb
