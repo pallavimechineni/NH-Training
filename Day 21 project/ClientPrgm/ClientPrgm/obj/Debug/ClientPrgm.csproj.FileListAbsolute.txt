@@ -1,0 +1,8 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 21 project\ClientPrgm\ClientPrgm\bin\Debug\ClientPrgm.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 21 project\ClientPrgm\ClientPrgm\bin\Debug\ClientPrgm.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 21 project\ClientPrgm\ClientPrgm\bin\Debug\ClientPrgm.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 21 project\ClientPrgm\ClientPrgm\obj\Debug\ClientPrgm.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 21 project\ClientPrgm\ClientPrgm\obj\Debug\ClientPrgm.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 21 project\ClientPrgm\ClientPrgm\obj\Debug\ClientPrgm.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 21 project\ClientPrgm\ClientPrgm\obj\Debug\ClientPrgm.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 21 project\ClientPrgm\ClientPrgm\obj\Debug\ClientPrgm.pdb
