@@ -27,13 +27,13 @@ namespace pallaviLibrary
     public class myderivedclass : mybaseclass
     {
         public void myderivedmethod()
-        {   /*
+        {   
             a = 1;
             b = 2;
             c = 3;
             d = 4;
             e = 5;
-            */
+            
 
         }
     }
@@ -41,7 +41,7 @@ namespace pallaviLibrary
     {
         public void otherclass()
         {
-            /*
+            
 
         mybaseclass mb = new mybaseclass();
         mb.a  = 1;
@@ -50,7 +50,7 @@ namespace pallaviLibrary
         mb.d=4;
          mb.e=5;
 
-           */
+          
         }
 
     }

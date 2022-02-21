@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c216961-11fd-4a78-9a76-0e9a9e8f8ccd": {
+      "ProjectGuid": "8c216961-11fd-4a78-9a76-0e9a9e8f8ccd",
+      "DisplayName": "prgmonAcessspecifiers",
+      "ColorIndex": 0
+    },
+    "a9db874b-599a-4b8b-813e-d355d213e238": {
+      "ProjectGuid": "a9db874b-599a-4b8b-813e-d355d213e238",
+      "DisplayName": "pallaviLibrary",
+      "ColorIndex": 1
+    },
+    "e202fc2e-27f1-4416-9603-2ba952a016ce": {
+      "ProjectGuid": "e202fc2e-27f1-4416-9603-2ba952a016ce",
+      "DisplayName": "publiclibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
