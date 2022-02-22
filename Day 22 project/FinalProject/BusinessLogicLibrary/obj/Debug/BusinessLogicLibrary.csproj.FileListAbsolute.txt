@@ -1,0 +1,9 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\BusinessLogicLibrary\bin\Debug\DLLlibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\BusinessLogicLibrary\bin\Debug\DLLlibrary.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

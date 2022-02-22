@@ -1,0 +1,6 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\DLLlibrary\bin\Debug\DLLlibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\DLLlibrary\bin\Debug\DLLlibrary.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\DLLlibrary\obj\Debug\DLLlibrary.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\DLLlibrary\obj\Debug\DLLlibrary.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\DLLlibrary\obj\Debug\DLLlibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\DLLlibrary\obj\Debug\DLLlibrary.pdb

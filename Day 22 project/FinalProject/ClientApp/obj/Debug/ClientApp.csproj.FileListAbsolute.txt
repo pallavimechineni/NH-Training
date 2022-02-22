@@ -1,0 +1,13 @@
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\bin\Debug\ClientApp.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\bin\Debug\ClientApp.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\obj\Debug\ClientApp.exe
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\obj\Debug\ClientApp.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\bin\Debug\BusinessLogicLibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\bin\Debug\DLLlibrary.dll
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\bin\Debug\BusinessLogicLibrary.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\bin\Debug\DLLlibrary.pdb
+D:\Day1 Assessment by Pallavi Mechineni\Day 22 project\FinalProject\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
